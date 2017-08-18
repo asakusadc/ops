@@ -1,0 +1,3 @@
+variable subnetworks {
+  type = "list"
+}
